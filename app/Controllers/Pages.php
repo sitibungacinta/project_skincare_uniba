@@ -22,4 +22,11 @@ class Pages extends BaseController
         echo view('layout/foother');
     }
 
+    public function login(){
+        $data=[
+            'title'=>'about'
+        ];
+        echo view('auth/login',$data);
+    }
+
 }

@@ -100,9 +100,9 @@
                                 <li><a href="blog-details.html">Blog Details</a></li>
                             </ul>
                         </li>
-                        <li class="has-submenu"><a href="account-login.html">Pages</a>
+                        <li class="has-submenu"><a href="pages/login">Pages</a>
                             <ul class="submenu-nav">
-                                <li><a href="account-login.html">My Account</a></li>
+                                <li><a href="pages/login">My Account</a></li>
                                 <li><a href="faq.html">Frequently Questions</a></li>
                                 <li><a href="page-not-found.html">Page Not Found</a></li>
                             </ul>
